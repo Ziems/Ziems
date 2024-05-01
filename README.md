@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile! I'm Noah Ziems, a PhD student in Computer Science at Notre Dame focusing on Natural Language Processing (NLP), Information Retrieval, and Instruction Following. Here you'll find some of the projects I've been working on.
+I'm Noah Ziems, a PhD student in Computer Science at Notre Dame focusing on Natural Language Processing (NLP), Information Retrieval, and Instruction Following. Here you'll find some of the projects I've been working on.
 
 ## About Me
 
