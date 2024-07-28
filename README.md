@@ -33,6 +33,3 @@ Feel free to explore more in my repositories!
 ## Thanks for stopping by!
 
 Feel free to explore my projects and reach out to me. Let's connect and collaborate!
-
-
-[![Noah's GitHub stats](https://github-readme-stats.vercel.app/api?username=ziems)](https://github.com/Ziems)
