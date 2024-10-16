@@ -13,7 +13,7 @@ I'm Noah Ziems, a PhD student in Computer Science at Notre Dame focusing on Natu
 Here are some highlights of my projects:
 
 - [LLM-URL](https://github.com/Ziems/llm-url): Large Langauge Models are Built-In Autoregressive Search Engines
-- [LLM-DTE] (https://github.com/Ziems/llm-dte): Using Language Models to Explain Tree Model Decisions
+- [LLM-DTE](https://github.com/Ziems/llm-dte): Using Language Models to Explain Tree Model Decisions
 - [ProxylessNAS](https://github.com/Ziems/ProxylessNAS): My implementation of ProxylessNAS from many years ago!
 
 Feel free to explore more in my repositories!
