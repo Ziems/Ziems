@@ -12,9 +12,9 @@ I'm Noah Ziems, a PhD student in Computer Science at Notre Dame focusing on Natu
 
 Here are some highlights of my projects:
 
+- [Arbor](https://github.com/Ziems/arbor): Arbor: Open Source Language Model Post Training
 - [LLM-URL](https://github.com/Ziems/llm-url): Large Langauge Models are Built-In Autoregressive Search Engines
 - [LLM-DTE](https://github.com/Ziems/llm-dte): Using Language Models to Explain Tree Model Decisions
-- [ProxylessNAS](https://github.com/Ziems/ProxylessNAS): My implementation of ProxylessNAS from many years ago!
 
 Feel free to explore more in my repositories!
 
@@ -31,8 +31,3 @@ Feel free to explore more in my repositories!
 - [LinkedIn](https://www.linkedin.com/in/noah-ziems-b42482132/)
 - [Twitter](https://twitter.com/NoahZiems)
 - [Personal Website](https://noahziems.com/)
-
-
-## Thanks for stopping by!
-
-Feel free to explore my projects and reach out to me. Let's connect and collaborate!
