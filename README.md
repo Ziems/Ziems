@@ -12,7 +12,7 @@ I'm Noah Ziems, a PhD student in Computer Science at Notre Dame focusing on Natu
 
 Here are some highlights of my projects:
 
-- [Arbor](https://github.com/Ziems/arbor): Arbor: Open Source Language Model Post Training
+- [Arbor](https://github.com/Ziems/arbor): Open Source Language Model Post Training
 - [LLM-URL](https://github.com/Ziems/llm-url): Large Langauge Models are Built-In Autoregressive Search Engines
 - [LLM-DTE](https://github.com/Ziems/llm-dte): Using Language Models to Explain Tree Model Decisions
 
