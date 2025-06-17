@@ -13,7 +13,10 @@ I'm Noah Ziems, a PhD student in Computer Science at Notre Dame focusing on Natu
 Here are some highlights of my projects:
 
 - [Arbor](https://github.com/Ziems/arbor): Open Source Language Model Post Training (GRPO, RL, SFT, DPO, etc.)
+[![PyPI Downloads](https://static.pepy.tech/badge/arbor-ai/month)](https://pepy.tech/projects/arbor-ai)
+
 - [DSPy](https://github.com/stanfordnlp/dspy): Framework for Programming—Not Prompting—Language Models
+[![PyPI Downloads](https://static.pepy.tech/badge/dspy/month)](https://pepy.tech/projects/dspy)
 
 Feel free to explore more in my repositories!
 
