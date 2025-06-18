@@ -26,7 +26,6 @@ Feel free to explore more in my repositories!
 - Retrieval
 - Instruction Following
 - Evaluation & Benchmarks
-- Explainability
 
 ## Connect with Me
 
